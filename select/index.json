@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "愛が止まらない ～TURN IT INTO LOVE～",
+  "base_artist": "Wink",
+  "createdAt": "2026-02-20T08:54:18.194499Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛が止まらない~Turn It Into Love~",
+      "artist": "Wink",
+      "has_synced": true,
+      "path": "select/01_愛が止まらない~Turn_It_Into_Love~_Wink.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛が止まらない",
+      "artist": "Wink",
+      "has_synced": false,
+      "path": "select/02_愛が止まらない_Wink.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛が止まらない ～TURN IT INTO LOVE～",
+      "artist": "Wink",
+      "has_synced": true,
+      "path": "select/03_愛が止まらない_~TURN_IT_INTO_LOVE~_Wink.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛が止まらない ～Turn it into love～ (Original Remastered 2018)",
+      "artist": "Wink",
+      "has_synced": true,
+      "path": "select/04_愛が止まらない_~Turn_it_into_love~_(Original_Remastered_2018)_Wink.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛が止まらない ～TURN INTO LOVE～",
+      "artist": "WINK",
+      "has_synced": true,
+      "path": "select/05_愛が止まらない_~TURN_INTO_LOVE~_WINK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛が止まらない～Turn it into love～",
+      "artist": "Wink",
+      "has_synced": false,
+      "path": "select/06_愛が止まらない~Turn_it_into_love~_Wink.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛が止まらない ~Turn It Into Love~ (Night Tempo Showa Groove Mix)",
+      "artist": "Night Tempo & Wink",
+      "has_synced": true,
+      "path": "select/07_愛が止まらない_~Turn_It_Into_Love~_(Night_Tempo_Showa_Groove_Mix)_Night_Tempo_&_Wink.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛が止まらない ~Turn It Into Love~",
+      "artist": "Night Tempo & Wink",
+      "has_synced": true,
+      "path": "select/08_愛が止まらない_~Turn_It_Into_Love~_Night_Tempo_&_Wink.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛が止まらない ~Turn It Into Love~ (Night Tempo Showa Groove Mix)",
+      "artist": "Night Tempo",
+      "has_synced": true,
+      "path": "select/09_愛が止まらない_~Turn_It_Into_Love~_(Night_Tempo_Showa_Groove_Mix)_Night_Tempo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛が止まらない ~Turn It Into Love~",
+      "artist": "Night Tempo",
+      "has_synced": true,
+      "path": "select/10_愛が止まらない_~Turn_It_Into_Love~_Night_Tempo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛が止まらない ～Turn it into love～ (Original Remastered 2018)",
+      "artist": "Wink",
+      "has_synced": true,
+      "path": "select/11_愛が止まらない_~Turn_it_into_love~_(Original_Remastered_2018)_Wink.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛が止まらない～Turn It Into Love～",
+      "artist": "Wink",
+      "has_synced": true,
+      "path": "select/12_愛が止まらない~Turn_It_Into_Love~_Wink.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "愛が止まらない -Turn It Into Love-",
+      "artist": "Wink",
+      "has_synced": true,
+      "path": "select/13_愛が止まらない_-Turn_It_Into_Love-_Wink.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "愛が止まらない～turn It into Love～",
+      "artist": "コンピ",
+      "has_synced": true,
+      "path": "select/14_愛が止まらない~turn_It_into_Love~_コンピ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛が止まらない",
+      "artist": "Wink",
+      "has_synced": false,
+      "path": "select/pl_01_愛が止まらない_Wink.txt"
+    }
+  ]
+}
